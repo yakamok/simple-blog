@@ -15,3 +15,5 @@ For pages you can name them anything and place them in pages/file.md
 To call the page simply use markdown in your post or sidebar.md:  
 
     [pagename](pages/?p=pages/pagename)
+
+This is for personal Use without support!  
