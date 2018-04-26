@@ -1,0 +1,112 @@
+body, input, textarea {
+    color:#000;    
+	font-family: sans-serif;
+ 	font-size: 13px;
+ 	line-height:22px;
+ 	padding: 0;
+ 	margin: 0;
+ 	background-color: #F0F0F0;
+ }a {
+	text-decoration:underline;
+	color:#800000;
+}h1 {
+	line-height:25px;
+	font-size: 23px;
+	color:#1c1c1c;
+	padding-bottom:5px;
+	border-bottom:1px dashed #A3A3A3;
+}h3 {
+	font-size: 15px;
+	margin-bottom: -8px;
+	color:#1c1c1c;
+	line-height:40px;
+}h4 {
+	font-size: 15px;
+	color:#1c1c1c;
+	line-height:40px;
+	border-bottom:1px solid #C4C4C4;
+}p {
+	font-size: 13px;
+	color:#333;
+	line-height:25px;
+}pre {
+	font-size: 11px;
+	background-color:#DBDBDB;
+	padding-left:8px;
+	border-top:1px solid #ABABAB;
+	border-bottom:1px solid #BDBDBD;
+	white-space: pre-wrap;
+	white-space: -moz-pre-wrap;
+	white-space: -pre-wrap;
+	white-space: -o-pre-wrap;
+	word-wrap: break-word;
+	color:#303030;
+}img {
+	height:auto;
+	max-width:672px;
+}#header {
+	margin-bottom:20px;
+	height:75px;
+}.clear {
+	clear:both;
+}li {
+	color:#333;
+}#title {
+	max-width:760px;
+	margin:0 auto;
+	font-size: 34px;
+	padding-top:20px;
+	padding-bottom:20px;
+	font-weight: normal;
+	line-height: 40px;
+}#title a {
+	text-decoration:none;
+	color:#000;
+}#wrapper {
+	max-width: 760px;
+	margin: auto;
+	padding-left:20px;
+	padding-right:20px;
+}#content {
+	width: 100%;
+}.linklist {
+	font-size:16px;
+	line-height:25px;
+	margin-bottom:15px;
+}.linklist a {
+	text-decoration:none;
+	padding-left:8px;
+}.new {
+	font-size:19px;
+	font-weight:bold;
+	line-height:25px;
+	margin-bottom:15px;
+}.new a {
+	text-decoration:none;
+	padding-left:19px;
+}#newleft {
+	float:left;
+}#oldright {
+	float:right;
+}.pagnation {
+	margin-bottom:5px;
+	height:25px;
+	border-bottom:1px solid #C4C4C4;
+	margin-bottom:20px;
+}.pagesnot {color: #F0F0F0; padding-left: 10px;
+}.pages a {text-decoration:none;}
+.date {
+	font-style:italic;
+	color:#8a8a8a;
+}.latest {
+	font-size:17px;
+	font-style:italic;
+	color:#525252;
+}#footer {
+	border-top:1px solid #C4C4C4;
+	margin-top:20px;
+	font-size:10px;
+}#footer p {
+	line-height:10px;
+	font-size:11px;
+}
