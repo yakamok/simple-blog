@@ -21,3 +21,4 @@ This is for personal Use without support!
 __ToDO:__  
 
 Automaticaly add the folders and a sample post if they dont exist  
+Redesign UI  
