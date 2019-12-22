@@ -20,5 +20,6 @@ This is for personal Use without support!
 
 __ToDO:__  
 
-Automaticaly add the folders and a sample post if they dont exist  
+1. Fix how pagnation and pages are created
+2. Automaticaly add the folders and a sample post if they dont exist  
 Redesign UI  
